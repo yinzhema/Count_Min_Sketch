@@ -1,2 +1,2 @@
 # BloomFilters_Sketch
-Implementation of Bloom Filters and Count-min Sketch Algorithms
+Implementation of Count-min Sketch Algorithms
